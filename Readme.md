@@ -1,6 +1,6 @@
-# Frame-DefaultPass
+# Frame-DefaultPasswd
 
-| Frame                                                        | DefaultPass                                                  |
+| Frame                                                        | DefaultPasswd                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Oms呼叫中心                                       |      KXTsoft2010   |
 | Glodon控制台    | admin|
